@@ -105,10 +105,6 @@ Ensure you have the following installed:
 │   ├── package.json
 │   └── .env
 ├── server
-│   ├── controllers
-│   │   ├── conferenceController.js
-│   │   ├── registrationController.js
-│   │   └── feedbackController.js
 │   ├── models
 │   │   ├── Conference.js
 │   │   ├── Registration.js
